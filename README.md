@@ -9,6 +9,10 @@
 ## Course
 This project was developed under the [Software Engineering](https://www.ua.pt/en/uc/2381) course of [University of Aveiro](https://www.ua.pt/).
 
+## Demo
+
+- Admin side Demo: click [here](https://youtu.be/hIMHacRem7o)
+- Client side Demo: click [here](https://youtu.be/TfNBq4YmH1s)
 
 ## Jira
 
@@ -17,6 +21,11 @@ The project management backlog and sprints can be accessed [here](https://g5-sec
 ## Documentation
 
 This project's documentation can be accessed [here](https://eduardosantoshf.github.io/es-project/).
+DISCLAIMER: the documentaiton website is no longer active. The documentation can be found in the `docusaurus` folder.
+
+## Project Presentation
+
+The project presentation can be accessed [here](./presentation.pdf).
 
 ## Team Members
 * **Diogo Vicente**: [DVicas](https://github.com/DVicas)
